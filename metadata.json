@@ -1,0 +1,7 @@
+{
+  "name": "Simple POS System",
+  "description": "A simple Point of Sale (POS) web application to record sales, manage products and inventory, track payments, and generate daily reports.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
